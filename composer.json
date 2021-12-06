@@ -1,0 +1,15 @@
+{
+    "name": "jalal/panel-search",
+    "autoload": {
+        "psr-4": {
+            "Jalal\\PanelSearch\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jalal alirezaei",
+            "email": "jalalpoker1@gamil.com"
+        }
+    ],
+    "require": {}
+}
